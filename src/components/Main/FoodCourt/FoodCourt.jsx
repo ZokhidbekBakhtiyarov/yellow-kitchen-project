@@ -1,6 +1,6 @@
 import React from "react";
-import "./Foodcourt.css";
-function Foodcourt() {
+import "./FoodCourt.css";
+function FoodCourt() {
   return (
     <section>
       <div className="container">Foodcourt</div>
