@@ -1,5 +1,5 @@
 import "./App.css";
-import Foodcourt from "./components/Main/Foodcourt";
+import FoodCourt from "./components/Main/FoodCourt";
 import Restaurants from "./components/Main/Restaurants";
 import Specialities from "./components/Main/Specialities";
 import Socialmedia from "./components/Main/Socialmedia";
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <Foodcourt></Foodcourt>
+      <FoodCourt></FoodCourt>
       <Restaurants></Restaurants>
       <Specialities></Specialities>
       <Socialmedia></Socialmedia>
