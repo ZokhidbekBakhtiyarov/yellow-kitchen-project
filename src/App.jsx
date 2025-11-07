@@ -1,10 +1,10 @@
 import "./App.css";
-import Foodcourt from "./components/Main/Foodcourt/Section1";
-import Restaurants from "./components/Main/Restaurants/Section2";
-import Specialities from "./components/Main/Specialities/Section3";
-import Socialmedia from "./components/Main/Socialmedia/Section4";
+import Foodcourt from "./components/Main/Foodcourt/";
+import Restaurants from "./components/Main/Restaurants/";
+import Specialities from "./components/Main/Specialities/";
+import Socialmedia from "./components/Main/Socialmedia/";
 import Header from "./components/Header/Header";
-import Footer from ".components//Footer/Footer";
+import Footer from "./components/Footer/Footer";
 function App() {
   return (
     <>
