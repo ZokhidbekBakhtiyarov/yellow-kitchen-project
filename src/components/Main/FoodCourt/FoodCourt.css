@@ -12,6 +12,11 @@
   border: 1px solid #ffe145;
   background-color: transparent;
 }
+.delivery:hover{
+  background-color: #ffe145;
+  border: none;
+  color: white;
+}
 
 .infoof {
   width: 110px;
